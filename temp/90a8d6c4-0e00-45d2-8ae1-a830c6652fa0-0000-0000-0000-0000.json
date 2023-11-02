@@ -1,0 +1,117 @@
+{
+    "id": "0000-0000-0000-0000",
+    "state": "$temp",
+    "Inventory": [
+        {
+            "id": "juniper:copper_ingot",
+            "name": "Copper Ingot",
+            "size": 126,
+            "color": [
+                175,
+                64,
+                30
+            ]
+        },
+        {
+            "id": "juniper:iron_sword",
+            "name": "Iron Sword",
+            "durability": 670,
+            "color": [
+                128,
+                128,
+                128
+            ]
+        },
+        {
+            "id": "juniper:iron_sword",
+            "name": "Iron Sword",
+            "durability": 670,
+            "color": [
+                128,
+                128,
+                128
+            ]
+        },
+        {
+            "id": "juniper:iron_ingot",
+            "name": "Iron Ingot",
+            "size": 126,
+            "color": [
+                180,
+                180,
+                180
+            ]
+        },
+        {
+            "id": "juniper:copper_ingot",
+            "name": "Copper Ingot",
+            "size": 126,
+            "color": [
+                175,
+                64,
+                30
+            ]
+        },
+        {
+            "id": "juniper:copper_ingot",
+            "name": "Copper Ingot",
+            "size": 126,
+            "color": [
+                175,
+                64,
+                30
+            ]
+        },
+        {
+            "id": "juniper:coal",
+            "name": "Coal",
+            "size": 126,
+            "color": [
+                23,
+                23,
+                23
+            ]
+        },
+        {
+            "id": "juniper:diamond",
+            "name": "Diamond",
+            "size": 126,
+            "color": [
+                0,
+                170,
+                204
+            ]
+        },
+        {
+            "id": "juniper:diamond",
+            "name": "Diamond",
+            "size": 126,
+            "color": [
+                0,
+                170,
+                204
+            ]
+        },
+        {
+            "id": "juniper:diamond",
+            "name": "Diamond",
+            "size": 126,
+            "color": [
+                0,
+                170,
+                204
+            ]
+        }
+    ],
+    "money": 0,
+    "level": 0,
+    "health": 100,
+    "attack": 10,
+    "defense": 12,
+    "reputation": 0,
+    "op": false,
+    "position": [
+        0,
+        0
+    ]
+}

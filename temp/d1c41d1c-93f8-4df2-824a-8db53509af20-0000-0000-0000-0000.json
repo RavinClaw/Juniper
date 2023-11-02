@@ -1,0 +1,33 @@
+{
+    "id": "0000-0000-0000-0000",
+    "state": "$temp",
+    "Inventory": [
+        {
+            "id": "juniper:iron_sword",
+            "name": "Iron Sword",
+            "attack": 4,
+            "durability": 800,
+            "enchantments": [
+                {
+                    "id": "juniper:sharpness",
+                    "lvl": 3
+                },
+                {
+                    "id": "juniper:fortune",
+                    "lvl": 2
+                }
+            ]
+        }
+    ],
+    "money": 0,
+    "level": 0,
+    "health": 100,
+    "attack": 10,
+    "defense": 12,
+    "reputation": 0,
+    "op": false,
+    "position": [
+        512,
+        480
+    ]
+}

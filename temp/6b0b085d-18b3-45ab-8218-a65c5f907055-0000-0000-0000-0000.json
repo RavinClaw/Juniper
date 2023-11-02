@@ -1,0 +1,27 @@
+{
+    "id": "0000-0000-0000-0000",
+    "state": "$temp",
+    "SavedData": {
+        "Last Played": [
+            {
+                "hour": "10",
+                "minute": "15",
+                "day": "02",
+                "month": "11",
+                "year": "2023"
+            }
+        ]
+    },
+    "Inventory": [],
+    "money": 0,
+    "level": 0,
+    "health": 100,
+    "attack": 10,
+    "defense": 12,
+    "reputation": 0,
+    "op": false,
+    "position": [
+        0,
+        0
+    ]
+}

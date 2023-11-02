@@ -1,0 +1,5 @@
+{
+    "Name": "Radio Antenna",
+    "structure map": "structure.map",
+    "connect": "RadioInterface()"
+}

@@ -1,0 +1,21 @@
+{
+    "defined-id": "",
+    "username": "",
+    "password": "",
+
+    "LocalSaves": [
+        {
+            "id": "",
+            "state": "",
+            "Inventory": [],
+            "money": 0,
+            "level": 0,
+            "health": 100,
+            "attack": 10,
+            "defense": 12,
+            "reputation": 0,
+            "op": false,
+            "position": [0, 0]
+        }
+    ]
+}

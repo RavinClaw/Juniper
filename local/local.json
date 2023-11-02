@@ -1,0 +1,58 @@
+{
+    "Equipment": [
+        {
+            "id": "juniper:iron_sword",
+            "name": "Iron Sword",
+            "durability": 670,
+            "color": [128, 128, 128]
+        }
+    ],
+    "Items": [
+        {
+            "id": "juniper:iron_ingot",
+            "name": "Iron Ingot",
+            "size": 126,
+            "color": [180, 180, 180]
+        },
+        {
+            "id": "juniper:copper_ingot",
+            "name": "Copper Ingot",
+            "size": 126,
+            "color": [175, 64, 30]
+        },
+        {
+            "id": "juniper:coal",
+            "name": "Coal",
+            "size": 126,
+            "color": [23, 23, 23]
+        },
+        {
+            "id": "juniper:diamond",
+            "name": "Diamond",
+            "size": 126,
+            "color": [0, 170, 204]
+        }
+    ],
+    "Enchantments": [
+        {
+            "id": "juniper:sharpness",
+            "name": "Sharpness",
+            "max_lvl": 5
+        },
+        {
+            "id": "juniper:fortune",
+            "name": "Fortune",
+            "max_lvl": 3
+        },
+        {
+            "id": "juniper:looting",
+            "name": "Looting",
+            "max_lvl": 3
+        },
+        {
+            "id": "juniper:efficiency",
+            "name": "Efficiency",
+            "max_lvl": 5
+        }
+    ]
+}
